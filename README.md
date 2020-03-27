@@ -5,7 +5,7 @@
   .subtitle {
   opacity:0.7;
   }
-  </style>
+</style>
 
 
 <h1 id='title'>Projeto(Be the hero)</h1>
